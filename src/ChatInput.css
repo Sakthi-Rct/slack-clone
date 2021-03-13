@@ -20,3 +20,11 @@
 .chatInput > form > button {
   display: none;
 }
+
+@media (max-width: 480px) {
+  .chatInput > form > input {
+    width: 48%;
+    padding: 15px 20px;
+    bottom: 20px;
+  }
+}

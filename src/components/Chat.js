@@ -51,7 +51,7 @@ function Chat() {
         </div>
       </div>
 
-      <div className="chat__messgaes">
+      <div className="chat__messages">
         {roomMessages.map(({ message, timestamp, user, userImage }) => (
           <Message
             message={message}
