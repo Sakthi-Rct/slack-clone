@@ -1,4 +1,6 @@
-# Slack is a channel-based messaging platform.
+# Slack is a channel-based messaging platform. 🚀 🚀 🚀 
+
+##Live Demo 👉  https://slack-clone-a73dd.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
