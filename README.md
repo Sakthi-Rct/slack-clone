@@ -1,4 +1,4 @@
-# Slack is a channel-based messaging platform. 🚀 🚀 🚀 
+# Slack Clone. 🚀 🚀 🚀 
 
 ##Live Demo 👉  https://slack-clone-a73dd.web.app/
 
