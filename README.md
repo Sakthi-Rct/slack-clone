@@ -1,4 +1,4 @@
-# Slack Clone. 🚀 🚀 🚀 
+# Slack Clone. 🚀 
 
 ### Live Demo 👉  https://slack-clone-a73dd.web.app/
 
